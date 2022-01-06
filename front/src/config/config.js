@@ -24,7 +24,8 @@ let config = {
 };
 
 // access domain
-let domain = '127.0.0.1'
+//let domain = '127.0.0.1'
+let domain = '1.117.21.58'
 
 let baseUrl = `http://${domain}:60010`
 config['baseUrl'] = baseUrl
