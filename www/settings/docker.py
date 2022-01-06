@@ -20,7 +20,7 @@
 from settings.local import *
 
 # access domain
-DOMAIN = '127.0.0.1'
+DOMAIN = '1.117.21.58'
 HTTPS_HOST = f'http://{DOMAIN}:60010/'
 LOGIN_PAGE = f'{HTTPS_HOST}login'
 
